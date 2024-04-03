@@ -2,6 +2,10 @@
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
+## Link
+
+## [password-generator.vercel](https://paulo-password-generator.vercel.app/)
+
 ## Preview
 
 ![Preview of Password Generator](./password-generator.png)
@@ -44,6 +48,8 @@ npm run dev
   - After the password is generated, it's displayed below the button
   - Below the password, there's a paragraph with the text 'click to copy', indicating that clicking/tapping it will copy the password to the clipboard
   - Whenever the password is copied, the paragraph text changes from 'click to copy' to 'copied' to indicate that the action was successful
+
+---
 
 ### Nanoid Implementation
 

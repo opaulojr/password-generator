@@ -37,7 +37,8 @@ button {
   font-size: 1.125rem;
 }
 
-p {
+
+#password {
   padding: 10px;
   border-radius: 5px;
   background-color: rgb(255 255 255 / 10%);
@@ -46,6 +47,8 @@ p {
   font-size: 1.125rem;
 }
 
-h3 {
-  color: #8ff0a4;
+#help-text {
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }

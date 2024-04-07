@@ -53,7 +53,7 @@ npm run dev
 
 ### Nanoid Implementation
 
-  - Using the **nanoid** library, it's possible to generate random passwords of 21 characters, including numbers, symbols, lowercase, and uppercase letters, creating passwords that are secure enough.
+  - Using the **nanoid** library, it's possible to generate random passwords of 21 characters, including numbers, symbols, lowercase, and uppercase letters, creating passwords that are secure enough
 
 ---
 
